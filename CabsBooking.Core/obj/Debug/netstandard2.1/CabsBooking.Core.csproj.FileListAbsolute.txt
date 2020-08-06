@@ -1,0 +1,9 @@
+/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/bin/Debug/netstandard2.1/CabsBooking.Core.deps.json
+/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/bin/Debug/netstandard2.1/CabsBooking.Core.dll
+/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/bin/Debug/netstandard2.1/CabsBooking.Core.pdb
+/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/obj/Debug/netstandard2.1/CabsBooking.Core.csprojAssemblyReference.cache
+/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/obj/Debug/netstandard2.1/CabsBooking.Core.AssemblyInfoInputs.cache
+/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/obj/Debug/netstandard2.1/CabsBooking.Core.AssemblyInfo.cs
+/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/obj/Debug/netstandard2.1/CabsBooking.Core.csproj.CoreCompileInputs.cache
+/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/obj/Debug/netstandard2.1/CabsBooking.Core.dll
+/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/obj/Debug/netstandard2.1/CabsBooking.Core.pdb

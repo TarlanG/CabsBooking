@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabsBooking.MVC", "CabsBooking.MVC\CabsBooking.MVC.csproj", "{9C1FEF4D-5B92-4646-81CC-5BFF492E7F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabsBooking.Core", "CabsBooking.Core\CabsBooking.Core.csproj", "{384CD501-60D1-433E-8539-5312D317137F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabsBooking.Infrastructure", "CabsBooking.Infrastructure\CabsBooking.Infrastructure.csproj", "{E24451A3-E986-4906-82CC-3AC38C0D7043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1FEF4D-5B92-4646-81CC-5BFF492E7F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1FEF4D-5B92-4646-81CC-5BFF492E7F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1FEF4D-5B92-4646-81CC-5BFF492E7F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1FEF4D-5B92-4646-81CC-5BFF492E7F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384CD501-60D1-433E-8539-5312D317137F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384CD501-60D1-433E-8539-5312D317137F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384CD501-60D1-433E-8539-5312D317137F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384CD501-60D1-433E-8539-5312D317137F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24451A3-E986-4906-82CC-3AC38C0D7043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24451A3-E986-4906-82CC-3AC38C0D7043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24451A3-E986-4906-82CC-3AC38C0D7043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24451A3-E986-4906-82CC-3AC38C0D7043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
