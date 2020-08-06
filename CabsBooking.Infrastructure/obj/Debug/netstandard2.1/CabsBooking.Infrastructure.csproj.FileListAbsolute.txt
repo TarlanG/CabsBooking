@@ -10,3 +10,15 @@
 /Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Infrastructure/obj/Debug/netstandard2.1/CabsBooking.Infrastructure.csproj.CopyComplete
 /Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Infrastructure/obj/Debug/netstandard2.1/CabsBooking.Infrastructure.dll
 /Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Infrastructure/obj/Debug/netstandard2.1/CabsBooking.Infrastructure.pdb
+/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/bin/Debug/netstandard2.1/CabsBooking.Infrastructure.deps.json
+/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/bin/Debug/netstandard2.1/CabsBooking.Infrastructure.dll
+/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/bin/Debug/netstandard2.1/CabsBooking.Infrastructure.pdb
+/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/bin/Debug/netstandard2.1/CabsBooking.Core.dll
+/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/bin/Debug/netstandard2.1/CabsBooking.Core.pdb
+/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/obj/Debug/netstandard2.1/CabsBooking.Infrastructure.csprojAssemblyReference.cache
+/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/obj/Debug/netstandard2.1/CabsBooking.Infrastructure.AssemblyInfoInputs.cache
+/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/obj/Debug/netstandard2.1/CabsBooking.Infrastructure.AssemblyInfo.cs
+/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/obj/Debug/netstandard2.1/CabsBooking.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/obj/Debug/netstandard2.1/CabsBooking.Infrastructure.csproj.CopyComplete
+/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/obj/Debug/netstandard2.1/CabsBooking.Infrastructure.dll
+/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/obj/Debug/netstandard2.1/CabsBooking.Infrastructure.pdb

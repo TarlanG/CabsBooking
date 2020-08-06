@@ -5049,11 +5049,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.MVC/CabsBooking.MVC.csproj",
+      "projectUniqueName": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.MVC/CabsBooking.MVC.csproj",
       "projectName": "CabsBooking.MVC",
-      "projectPath": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.MVC/CabsBooking.MVC.csproj",
+      "projectPath": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.MVC/CabsBooking.MVC.csproj",
       "packagesPath": "/Users/tarlang/.nuget/packages/",
-      "outputPath": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.MVC/obj/",
+      "outputPath": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.MVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tarlang/.nuget/NuGet/NuGet.Config"
@@ -5067,11 +5067,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj": {
-              "projectPath": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj"
+            "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj": {
+              "projectPath": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj"
             },
-            "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Infrastructure/CabsBooking.Infrastructure.csproj": {
-              "projectPath": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Infrastructure/CabsBooking.Infrastructure.csproj"
+            "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/CabsBooking.Infrastructure.csproj": {
+              "projectPath": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/CabsBooking.Infrastructure.csproj"
             }
           }
         }

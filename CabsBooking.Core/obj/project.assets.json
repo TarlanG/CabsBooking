@@ -873,11 +873,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj",
+      "projectUniqueName": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj",
       "projectName": "CabsBooking.Core",
-      "projectPath": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj",
+      "projectPath": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj",
       "packagesPath": "/Users/tarlang/.nuget/packages/",
-      "outputPath": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/obj/",
+      "outputPath": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tarlang/.nuget/NuGet/NuGet.Config"

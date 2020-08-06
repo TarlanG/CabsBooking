@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{9C1FEF4D-5B92-4646-81CC-5BFF492E7F71}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CabsBooking.Infrastructure/Migrations/20200806191131_InitialMigration.cs">
+    <Files>
+      <File FileName="CabsBooking.Core/Entities/Booking.cs" Line="4" Column="27" />
+      <File FileName="CabsBooking.MVC/appsettings.json" Line="3" Column="99" />
+      <File FileName="CabsBooking.MVC/Startup.cs" Line="1" Column="1" />
+      <File FileName="CabsBooking.Infrastructure/Migrations/20200806191131_InitialMigration.cs" Line="18" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tarlan.CabsBooking" expanded="True">
+            <Node name="CabsBooking.Core" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="CabsBooking.Infrastructure" expanded="True">
+              <Node name="Migrations" expanded="True">
+                <Node name="20200806191131_InitialMigration.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="CabsBooking.MVC" expanded="True">
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CabsBooking.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

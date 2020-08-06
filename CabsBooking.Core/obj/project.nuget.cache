@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "32F9MC2oMGYhVfH0s5hIjoIsTzV8ggaL6ZB1w+9wQrRedT/E5BB7pjAiWWQ4OHRj+pe5CSMIWC4bl6a4bJMx5Q==",
+  "dgSpecHash": "wkH742XNo1moS9UywvjIP/N4o3cDzG9lWh7Hg5lxs4zUxdfSgYQmjolc1zpil4nIngGbo9rxaKXHEBaYJBHduA==",
   "success": true,
-  "projectFilePath": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj",
+  "projectFilePath": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj",
   "expectedPackageFiles": [
     "/Users/tarlang/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/tarlang/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

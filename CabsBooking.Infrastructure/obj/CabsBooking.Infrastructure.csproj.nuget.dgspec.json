@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Infrastructure/CabsBooking.Infrastructure.csproj": {}
+    "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/CabsBooking.Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj": {
+    "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj",
+        "projectUniqueName": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj",
         "projectName": "CabsBooking.Core",
-        "projectPath": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj",
+        "projectPath": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj",
         "packagesPath": "/Users/tarlang/.nuget/packages/",
-        "outputPath": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/obj/",
+        "outputPath": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tarlang/.nuget/NuGet/NuGet.Config"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Infrastructure/CabsBooking.Infrastructure.csproj": {
+    "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/CabsBooking.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Infrastructure/CabsBooking.Infrastructure.csproj",
+        "projectUniqueName": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/CabsBooking.Infrastructure.csproj",
         "projectName": "CabsBooking.Infrastructure",
-        "projectPath": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Infrastructure/CabsBooking.Infrastructure.csproj",
+        "projectPath": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/CabsBooking.Infrastructure.csproj",
         "packagesPath": "/Users/tarlang/.nuget/packages/",
-        "outputPath": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Infrastructure/obj/",
+        "outputPath": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tarlang/.nuget/NuGet/NuGet.Config"
@@ -81,8 +81,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj": {
-                "projectPath": "/Users/tarlang/Desktop/Tarlan.CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj"
+              "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj": {
+                "projectPath": "/Users/tarlang/Desktop/CabsBooking/CabsBooking.Core/CabsBooking.Core.csproj"
               }
             }
           }
